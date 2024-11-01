@@ -4,7 +4,7 @@ fn  main() {
 	let n:f64 = 3.0;
 
 	// compound interest for depreciation
-	let a = p*(1.0 -(r / 100.0))* n;
+	let a = p*(1.0 -(r / 100.0)).powf(n);
 	println!("Amount is {}", a);
 
 }

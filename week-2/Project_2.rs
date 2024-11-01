@@ -8,7 +8,7 @@ fn  main() {
 	// sum and average
 	let s = t + m + h + d + a;
 	println!("Sum is{}", s);
-	let v = s/5.0;
+	let v = s/10.0;
 	println!("Average is{}", v);
 
 }
