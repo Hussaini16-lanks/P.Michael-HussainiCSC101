@@ -5,10 +5,12 @@ fn  main() {
 	let d:f64 = 3.0 * 2850000.0;
 	let a:f64 = 1.0 * 250000.0;
 
-	// sum and average
+	// sum calculation
 	let s = t + m + h + d + a;
 	println!("Sum is{}", s);
-	let v = s/10.0;
+
+	// Average calculation
+	let v = s / 10.0;
 	println!("Average is{}", v);
 
 }
