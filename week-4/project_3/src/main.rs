@@ -4,7 +4,7 @@ fn main() {
     // Define the food menu and prices
     let menu = [
         ("Poundo Yam/Edinkaiko Soup", 3200),
-        ("Fried Rice & Chicken", 3000),
+        ("Fried Rice & Chicken", 3000)
         ("Amala & Ewedu Soup", 2500),
         ("Eba and Egusi Soup", 2000),
         ("White Rice & Stew", 2500),
